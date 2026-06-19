@@ -62,12 +62,12 @@ IoT-based smart home automation project using ESP32 and sensors.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam-daredevil\&show_icons=true)
 
 ## 🤝 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/smarth-singh-58106b2a7](http://www.linkedin.com/in/smarth-singh-58106b2a7)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [your-email@example.com](smarthsingh91@gmail.com)
 
 ### 💡 Quote I Live By
 
